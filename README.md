@@ -1,2 +1,1 @@
-# vikas_inconclusive-card-8343
-#team members
+# Intern Theory website clone project 
